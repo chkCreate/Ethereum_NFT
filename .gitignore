@@ -1,3 +1,6 @@
+# DB as it is big
+nfts.sqlite
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
