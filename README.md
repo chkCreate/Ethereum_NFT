@@ -67,4 +67,6 @@ For ease of analysis, several derived relations were included in this dataset:
 
 
 ## Reference
-* Data is from [Kaggle](https://www.kaggle.com/simiotic/ethereum-nfts) and [Moonstream.to](https://moonstream.to/).
+* Data is from [Kaggle](https://www.kaggle.com/simiotic/ethereum-nfts), whch was donated by [Moonstream.to](https://moonstream.to/).
+
+* Check out the Moonstream team that collected the data and their [github page](https://github.com/bugout-dev/moonstream).
